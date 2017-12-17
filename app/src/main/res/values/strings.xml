@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score Keeper for Cricket matches</string>
+    <string name="home_team">Home Team</string>
+    <string name="visiting_team">Visiting Team</string>
+    <string name="eleven_left">11 left</string>
+    <string name="six_runs">6 runs</string>
+    <string name="four_runs">4 runs</string>
+    <string name="one_run">1 run</string>
+    <string name="batsman_out">batsman out</string>
+    <string name="reset">reset</string>
+</resources>
